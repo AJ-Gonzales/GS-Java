@@ -22,19 +22,19 @@ Clone o repositório:
 git clone https://github.com/AJ-Gonzales/GS-Java.git
 ```
 Entre na pasta:
-
+```bash
 cd GS-Java
-
+```
 Execute a aplicação:
 
 Windows
-
+```bash
 mvnw.cmd spring-boot:run
-
+```
 Linux/macOS
-
+```bash
 ./mvnw spring-boot:run
-
+```
 A API será iniciada localmente e poderá ser acessada pelos endpoints disponíveis no projeto.
 
 🎓 Projeto
